@@ -9,9 +9,14 @@ Sequence in which to run the modules.
 Utility Functions:
 ==================
 cluster_comparison.R	- Utilities for comparing K-Means and BHC Clusters
+
 cluster_reporting.R	- Utilities for reporting cluster characteristics
+
 optimalK.R		- Investigate cluster stability and optimal number of clusters
+
 plotutils.R		- Pairwise parameter correlation and plotting
+
 Readme.md		- Readme for R Scripts
+
 stutils.R		- Utility functions for data preprocessing
 
