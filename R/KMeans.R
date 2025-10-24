@@ -106,8 +106,8 @@ write_kmeans_reports <- function(df, coords, clusters, mca, name) {
 }
 ###################################################
 
-# load("./data/preproc.RData")
-load ("./data/kmeans.RData")
+load("./data/preproc.RData")
+# load ("./data/kmeans.RData")
 
 ###
 # Process TD
