@@ -1,4 +1,4 @@
-# TD_subtype
+# Identifying Distinct Tourette Disorder Subtypes using Clinical Data
 This repository contains the source code used in the paper "Identifying Distinct Tourette Disorder Subtypes using Clinical Data", to identify Tourette Disorder subtypes by unsupervised clustering of clinical data.
 
 Reference:  doi: https://doi.org/10.1101/2025.11.09.25339700
